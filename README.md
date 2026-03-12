@@ -1,21 +1,24 @@
 # T-Rex Runner Game
 
-A simple browser game inspired by the Chrome offline dinosaur game.
-This project was created while learning JavaScript fundamentals and basic game logic.
+A simple browser-based runner game inspired by the Chrome offline dinosaur game. The player controls a T-Rex that must jump over obstacles while the score increases over time.
+
+This project was built while learning JavaScript and basic game development concepts such as animations, collision detection, and object spawning.
 
 ## Features
 
-* Jump mechanics for the player
+* Jump mechanics using keyboard controls
 * Random obstacle generation
+* Moving background and clouds
 * Score tracking system
-* Simple keyboard controls
-* Lightweight browser-based gameplay
+* Game over and restart functionality
+* High score storage using local storage
 
 ## Technologies Used
 
 * HTML
 * CSS
 * JavaScript
+* p5.js / p5.play library
 
 ## How to Run the Game
 
@@ -25,24 +28,33 @@ This project was created while learning JavaScript fundamentals and basic game l
 
 ## Controls
 
-* **Spacebar / Up Arrow** → Jump
+Spacebar → Jump
+
+## Game Logic Overview
+
+* Obstacles spawn periodically and move toward the player
+* The player must jump to avoid collisions
+* The score increases over time while the game is running
+* If the T-Rex collides with an obstacle, the game ends
+* The player can restart the game using the restart button
 
 ## Learning Outcomes
 
-Through this project, I learned:
+This project helped me learn:
 
-* Basic JavaScript game logic
-* Event handling in the browser
-* DOM manipulation
-* Simple collision detection
+* Basic game loop logic
+* Collision detection
+* Sprite animation
+* Event handling in JavaScript
+* Managing game states (Play / End)
 
 ## Future Improvements
 
 * Add sound effects
-* Add a restart button
-* Improve game UI
 * Add difficulty progression
+* Improve UI and visual design
+* Add mobile controls
 
 ## Author
 
-Ayushi R
+Ayushi 
