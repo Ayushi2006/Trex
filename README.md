@@ -1,6 +1,6 @@
 # T-Rex Runner Game
 
-A simple browser-based runner game inspired by the Chrome offline dinosaur game. The player controls a T-Rex that must jump over obstacles while the score increases over time. 
+A simple browser-based runner game inspired by the Chrome offline dinosaur game. The player controls a T-Rex that must jump over obstacles while the score increases over time.  
  
 This project was built while learning JavaScript and basic game development concepts such as animations, collision detection, and object spawning.
 
