@@ -4,7 +4,7 @@ A simple browser-based runner game inspired by the Chrome offline dinosaur game.
  
 This project was built while learning JavaScript and basic game development concepts such as animations, collision detection, and object spawning.
 
-## Features
+## Features 
 
 * Jump mechanics using keyboard controls
 * Random obstacle generation
