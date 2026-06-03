@@ -6,7 +6,7 @@ This project was built while learning JavaScript and basic game development conc
 
 ## Features 
 
-* Jump mechanics using keyboard controls
+* Jump mechanics using keyboard controls 
 * Random obstacle generation
 * Moving background and clouds
 * Score tracking system
