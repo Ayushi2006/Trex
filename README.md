@@ -14,9 +14,9 @@ This project was built while learning JavaScript and basic game development conc
 * High score storage using local storage
 
 ## Technologies Used
-
+ 
 * HTML
-* CSS
+* CSSS
 * JavaScript
 * p5.js / p5.play library
 
