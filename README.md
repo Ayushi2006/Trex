@@ -16,7 +16,7 @@ This project was built while learning JavaScript and basic game development conc
 ## Technologies Used
  
 * HTML
-* CSSS
+* CSS
 * JavaScript
 * p5.js / p5.play library
 
