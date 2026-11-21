@@ -10,7 +10,7 @@ This project was built while learning JavaScript and basic game development conc
 * Random obstacle generation    
 * Moving background and clouds
 * Score tracking system 
-* Game over and restart functionality
+* Game over and restart functionality  
 * High score storage using local storage
 
 ## Technologies Used
